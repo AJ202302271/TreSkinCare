@@ -1,0 +1,36 @@
+h1 {font-family:times new roman,arial;
+font-size:40px;
+color:black;
+border: 2px solid white;
+padding: 10px}
+
+p {font-family:segoe ui,arial;
+font-size:20px;
+color:black;}
+
+header{
+  background:linear-gradient(
+to left,pink,#DAC4FF);}
+
+header {
+  padding:20px;
+  margin-bottom:50px;
+  border:60px blue;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {padding: 10px;
+margin: 20px;
+width: 70%;
+background:linear-gradient(
+to left,pink,#DAC4FF);  
+style: dotted;
+border-width: 5px;
+border-color: purple;  
+border-collapse: collapse;   
+margin-left: auto;
+margin-right: auto;  
+}
+p {text-align: left;} 
